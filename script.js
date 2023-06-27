@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", getFormValue() {
 function getFormvalue() 
 {
     //Write your code here
