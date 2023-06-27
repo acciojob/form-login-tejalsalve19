@@ -1,3 +1,4 @@
+document.addEventListener("DOMContentLoaded", function() {
 function getFormvalue() 
 {
     //Write your code here
@@ -9,3 +10,4 @@ function getFormvalue()
 	// Display the first and last name using alert()
 	alert("First Name: " + firstName + "\nLast Name: " + lastName);
 }
+});
