@@ -2,7 +2,7 @@ function getFormvalue()
 {
     //Write your code here
 	// Get the form element by its ID
-	const form = document.getElementById("myForm");
+	const form = document.getElementById("form1");
 	// Get the input values from the form
 	const firstName = form.elements["firstName"].value;
 	const lastName = form.elements["lastName"].value;
